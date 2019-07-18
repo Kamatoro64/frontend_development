@@ -1,6 +1,8 @@
 # FRONTEND DEVELOPMENT
 
-### The `<head>` element provides metada (information) about the HTML document
+## HTML
+
+The `<head>` element provides metada (information) about the HTML document
 
 ``` html
 <html>
